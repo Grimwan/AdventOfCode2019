@@ -11,9 +11,8 @@ namespace AdventOfCode
         static void Main(string[] args)
         {
 
-            AdventOfCodeDay1.AdventOfCode1 AOCD1 = new AdventOfCodeDay1.AdventOfCode1();
-
-            Console.WriteLine("Hello World!");
+            AdventOfCodeDay2.AOCD2 AOCD2 = new AdventOfCodeDay2.AOCD2();
+          
             Console.ReadKey();
         }
     }
